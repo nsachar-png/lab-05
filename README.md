@@ -2,16 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Naval>`
+- **CCID:** `<nsachar>`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
-
-## Verbal Collaboration
-
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+The use of generative ai to double check my work. 
